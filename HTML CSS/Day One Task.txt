@@ -1,0 +1,16 @@
+1.Create a html page with formatting 
+and Comment it
+
+2.Create an hyperlink 
+page opens on new tab
+
+3.abbr tag
+
+
+Tags, Attributes, Elements
+Formatting
+Internal and Inline CSS
+Heading
+Paragraph
+Hyperlink
+Abbr

@@ -1,0 +1,9 @@
+Day 4 Task
+
+1. Create a canvas of width 600, height 300, border is on blue color,
+background is on red, 
+
+draw a green color rect in the middle
+
+2. Create a datalist of colors.
+

@@ -1,0 +1,6 @@
+D2T1Address.html
+
+Day 2 Task:
+1. Display the address in proper form
+
+2. An area with an image map
